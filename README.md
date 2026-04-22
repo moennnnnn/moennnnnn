@@ -1,4 +1,4 @@
-# <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=typewriter&color=auto&height=120&section=header&text=HI%20THERE,%20I'M%20MOENMAR!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" /> </h1>
+<h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=typewriter&color=auto&height=120&section=header&text=HI%20THERE,%20I'M%20MOENMAR!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" /> </h1>
 
 <div align="center">
   <h3> 🚀 <a href="#">#MERNStack</a> <a href="#">#TypeScript Developer</a></h3>
