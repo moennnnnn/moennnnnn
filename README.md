@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Moenmar! 👋
 
-<!--
-**moennnnnn/moennnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Web Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate student and developer currently focused on building functional and scalable web applications. I love working with modern technologies and constantly improving my workflow to deliver clean and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+
+**Frontend & Styling**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+
+---
+
+### 🛠️ Current Projects & Focus
+- 🛒 **E-commerce System:** Developing a generalized e-commerce platform with **3D integration**.
+- 🔐 **Authentication:** Recently finished a To-Do App with **JWT-based auth** and email verification.
+- ⚡ **Learning:** Currently exploring more on **OAuth (Google & Facebook)** integration.
+
+---
+
+### 📊 GitHub Stats
+![Moenmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+- **Email:** [Your Email Here]
+- **LinkedIn:** [Your LinkedIn Profile Link]
+
+*"Keep coding, keep building."*
