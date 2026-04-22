@@ -1,4 +1,7 @@
-<h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=typewriter&color=auto&height=120&section=header&text=HI%20THERE,%20I'M%20MOENMAR!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38" /> </h1>
+<div align="center">
+  <h1 align="center">Hi there, I'm Moenmar! 🚀</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&height=100&lines=Frontend+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <h3> 🚀 <a href="#">#MERNStack</a> <a href="#">#TypeScript Developer</a></h3>
