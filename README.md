@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Moenmar! 🚀</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&height=100&lines=Frontend+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=F7DF1E&center=true&vCenter=true&width=1000&height=100&lines=Frontend+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
