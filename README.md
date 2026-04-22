@@ -21,22 +21,3 @@ I am a passionate student and developer currently focused on building functional
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
 ---
-
-### 🛠️ Current Projects & Focus
-- 🛒 **E-commerce System:** Developing a generalized e-commerce platform with **3D integration**.
-- 🔐 **Authentication:** Recently finished a To-Do App with **JWT-based auth** and email verification.
-- ⚡ **Learning:** Currently exploring more on **OAuth (Google & Facebook)** integration.
-
----
-
-### 📊 GitHub Stats
-![Moenmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect with me:
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile Link]
-
-*"Keep coding, keep building."*
