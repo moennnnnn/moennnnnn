@@ -46,7 +46,6 @@
 
 #### 📈 Professional Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moennnnnn&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moennnnnn&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </p>
 
