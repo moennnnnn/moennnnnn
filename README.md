@@ -50,6 +50,14 @@
 </p>
 
 #### 🏆 My Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moennnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moennnnnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=94A3B8" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moennnnnn&theme=tokyonight&hide_border=true&background=0B1120&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" alt="GitHub Streak" />
+</p>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moennnnnn&theme=tokyonight&area=true" alt="Activity Graph" />
 </p>
